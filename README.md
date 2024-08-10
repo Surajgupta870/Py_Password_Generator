@@ -17,7 +17,7 @@ nr_numbers=int(input("How many numbers wolud you like?\n"))
 
 #Easy Password
 
-#password=""
+password=""
 
 
 #for char in range(1,nr_letters+1):
